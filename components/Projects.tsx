@@ -68,7 +68,7 @@ const Projects: React.FC = () => {
                     {project.description}
                   </p>
                   
-                  <a href={project.link} className="inline-flex items-center gap-2 text-white font-medium hover:gap-4 transition-all duration-300 group-hover:text-neutral-200">
+                  <a href="{project.link}" className="inline-flex items-center gap-2 text-white font-medium hover:gap-4 transition-all duration-300 group-hover:text-neutral-200">
                     VIEW CASE STUDY <ArrowUpRight size={18} />
                   </a>
 

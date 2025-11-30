@@ -8,7 +8,7 @@ export const PROJECTS: Project[] = [
     image: "https://res.cloudinary.com/dfatwlbay/image/upload/v1764506673/tto5ikdxlsy3jlvb3h0w.jpg",
     year: "2024",
     description: "A comprehensive design system for a fintech startup, focusing on clarity and dark-mode aesthetics.",
-    link: "https://yourwebsite.com/lumina-interface"
+    link: "./components/Mobile"
   },
   {
     id: 2,

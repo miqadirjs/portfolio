@@ -9,6 +9,7 @@ import Cursor from './components/Cursor';
 import SkillsMarquee from './components/SkillsMarquee';
 import Experience from './components/Experience';
 import Education from './components/Education';
+import Mobile from './components/Mobile';
 
 const App: React.FC = () => {
   return (
