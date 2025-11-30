@@ -81,7 +81,7 @@ const Navbar: React.FC = () => {
         </div>
         
         <div className="absolute bottom-12 text-neutral-500 text-xs tracking-widest uppercase">
-          © 2024 Miqadir.dev
+          © 2024 Miqadir
         </div>
       </div>
     </>

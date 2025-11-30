@@ -75,15 +75,16 @@ const Hero: React.FC = () => {
   }, []);
 
   const responsibilities = [
-    "Design user interface elements for desktop, web, and mobile applications.",
-    "Create visually appealing designs and graphic user interface elements including menus, tabs, forms, widgets, and pages.",
-    "Designing user interface layouts, prototypes, and visual assets.",
-    "Developing and maintaining design guidelines, style guides, and asset libraries.",
-    "Creating high-fidelity mockups, animations, and interactive prototypes.",
-    "Conducting usability testing to identify and address UI issues.",
-    "Collaborating with developers to ensure a consistent user experience.",
-    "Staying up-to-date with UI and UX trends.",
-    "Design and develop user interface elements for websites, web applications, and mobile applications."
+
+        "Design user interface elements for desktop, web, and mobile applications.",
+        "Create visually appealing designs and graphic user interface elements including menus, tabs, forms, widgets, and pages.",
+        "Designing user interface layouts, prototypes, and visual assets.",
+        "Developing and maintaining design guidelines, style guides, and asset libraries.",
+        "Creating high-fidelity mockups, animations, and interactive prototypes.",
+        "Conducting usability testing to identify and address UI issues.",
+        "Collaborating with developers to ensure a consistent user experience.",
+        "Staying up-to-date with UI and UX trends.",
+        "Design and develop user interface elements for websites, web applications, and mobile applications"
   ];
 
   const contentBlock = (
@@ -161,8 +162,8 @@ const Hero: React.FC = () => {
                             </div>
                         </div>
                     </div>
-                    <p className="text-neutral-300 font-medium">Sr UX/UI Designer <span className="text-neutral-600">@</span> Binatedigital</p>
-                    <p className="text-xs text-neutral-500 mt-1">Aug, 2023 - Working</p>
+                    <p className="text-neutral-300 font-medium">Sr UX/UI Designer <span className="text-neutral-600">@</span> Alta Tech Mark</p>
+                    <p className="text-xs text-neutral-500 mt-1">May, 2025 - Working</p>
                 </div>
 
                 {/* Scrolling Content Area */}

@@ -42,7 +42,7 @@ const About: React.FC = () => {
     return () => ctx.revert();
   }, []);
 
-  const bio = "I'm Muhammad Imtiaz Qadir , an UI/UX Designer, I’m an UI/UX designer based in Karachi, PK with 12+ experience in delivering end-to-end UX/UI design for software products. I’m passionate about improving the lives of others through design and I’m constantly looking to learn new things everyday..";
+  const bio = "I'm Muhammad Imtiaz Qadir , an UI/UX designer based in Karachi, PK with 12+ experience in delivering end-to-end UX/UI design for software products. I’m passionate about improving the lives of others through design and I’m constantly looking to learn new things everyday..";
   const words = bio.split(" ");
 
   return (
